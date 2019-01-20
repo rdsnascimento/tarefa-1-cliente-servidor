@@ -4,7 +4,7 @@ Os códigos em Python em anexo correspondem a uma aplicação cliente e uma apli
 
 Esta aplicação tem a seguinte função: 
 
-o usuário digita uma frase em caixa baixa na aplicação cliente, que envia uma requisição ao servidor. O servidor, ao receber a frase em caixa baixa, faz a sua conversão para caixa alta (com o método upper) e envia a frase modificada ao cliente.
+O usuário digita uma frase em caixa baixa na aplicação cliente, que envia uma requisição ao servidor. O servidor, ao receber a frase em caixa baixa, faz a sua conversão para caixa alta (com o método upper) e envia a frase modificada ao cliente.
 
 Você deve executar os dois códigos em computadores separados, preferencialmente no mesmo laboratório ou na sua rede doméstica. Algumas alterações serão necessárias (por exemplo, substituir o 'hostname' pelo endereço de IP do servidor e o número de porta por um número de sua escolha, supostamente pré-combinado entre cliente e servidor).
 
