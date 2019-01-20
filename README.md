@@ -1,4 +1,4 @@
-# Aplicação CAIXA ALTA (cliente e servidor UDP)
+# Aplicação CAIXA ALTA
 
 Os códigos em Python em anexo correspondem a uma aplicação cliente e uma aplicação servidor que utilizam o protocolo de transporte UDP para se comunicar.
 
